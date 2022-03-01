@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tunç</h1>
-<h3 align="center"> Self taught web developer, passion for open-source.</h3>
+<h3 align="center"> Self taught web developer passion for open-source.</h3>
 
 - 🌱 I’m currently learning **React | nodejs | .Net5**
 
